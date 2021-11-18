@@ -3,7 +3,10 @@ body {
     padding: 20px 0;
     margin: 0;
     text-align: center;
-}
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIhYT3rogM5KkHbMeux01eSIJ6U_ily3y0s5Xm9VJyNQr9ohIbP2kC7byOz71GImcadS0&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
 
 span {
     border-bottom: 2px solid black;
