@@ -1,6 +1,5 @@
 let num1 = 20
 let num2 = 10
-let together;
 document.getElementById("num1-el").textContent = num1
 document.getElementById("num2-el").textContent = num2
 let sumEl = document.getElementById("sum-el");
